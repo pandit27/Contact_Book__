@@ -1,0 +1,5 @@
+Contact {
+  name: Priyanshu,
+  phone: 123456789,
+  email: xyz@email.com
+}
